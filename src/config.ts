@@ -3,6 +3,16 @@ export const siteConfig = {
   title: "产品经理（秋招求职中）",
   description: "荣嘉琪的产品经理个人网站，聚焦增长、地图与智能策略产品实践",
   accentColor: "#0f766e",
+  photo: "/photos/photo-01.jpeg",
+  homePhotos: [
+    "/photos/photo-01.jpeg",
+    "/photos/photo-02.jpeg",
+    "/photos/photo-03.jpeg",
+    "/photos/photo-04.jpeg",
+    "/photos/photo-05.jpeg",
+    "/photos/photo-06.jpeg",
+    "/photos/photo-07.jpeg",
+  ],
   social: {
     email: "rongjiaqi@bupt.edu.cn",
     github: "https://github.com/jiaqirong",
