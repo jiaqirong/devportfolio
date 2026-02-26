@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "荣嘉琪",
-  title: "产品经理（秋招求职中）",
+  title: "产品经理（春招求职中）",
   description: "荣嘉琪的产品经理个人网站，聚焦增长、地图与智能策略产品实践",
   accentColor: "#0f766e",
   photo: "/photos/photo-01.jpeg",
